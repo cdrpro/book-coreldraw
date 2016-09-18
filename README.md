@@ -26,5 +26,8 @@ _**Авторы:**
 _**Лицензия:**   
 CC-BY-NC-ND 4.0 International_
 
+_**Исходный код книги:**   
+[github.com/cdrpro-macros/book-coreldraw](https://github.com/cdrpro-macros/book-coreldraw)_
+
 Последнюю версию книги можно найти по адресу: [cdrpro.ru/links](http://cdrpro.ru/links/)   
 [Читать онлайн](https://cdrpro-macros.gitbooks.io/coreldraw/content/).

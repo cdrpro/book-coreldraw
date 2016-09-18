@@ -66,3 +66,4 @@
    * [Производительность X6 x86 против x64](other/proizvoditelnost-coreldraw-x6-x86-protiv-x64/index.md)
    * [Один из вариантов восстановления cdr файла (для X6)](other/odin-iz-variantov-vosstanovleniya-cdr-fayla-dlya-coreldraw-x6/index.md)
    * [Как посмотреть ход выполнения сохранения в X5 и выше](other/kak-posmotret-khod-vypolneniya-sokhraneniya-v-x5/index.md)
+* [Список изменений](CHANGELOG.md)
