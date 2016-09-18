@@ -18,7 +18,7 @@
       * [Растровое изображение — кривая?!](tools/curves/rastrovoe-izobrazhenie--krivaya/index.md)
       * [Объединение узлов](tools/curves/obedinenie-uzlov/index.md)
    * Работа с заливками, цветом и палитрами
-      * [Интерактивная заливка (Interactive Fill)](tools/interactive-fill/index.md)
+      * [Интерактивная заливка (Interactive Fill)](tools/colors/interactive-fill/index.md)
       * [Новые возможности заливки в X7](tools/colors/novye-vozmozhnosti-zalivki-v-coreldraw-x7/index.md)
       * [Режим заливки, или почему некоторые кривые имеют заливку в тех областях где должен быть просвет](tools/colors/rezhim-zalivki/index.md)
       * [Steps в градиентной заливке](tools/colors/steps-v-gradientnoy-zalivke/index.md)
