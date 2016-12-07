@@ -12,7 +12,7 @@
 
 Нашли ошибку? Можете добавить комментарий прямо в тексте книги. 
 Для этого наведите курсор на параграф с ошибкой и нажмите `+` справа от него.
-Или создайте [новую дискуссию](https://www.gitbook.com/book/cdrpro-macros/coreldraw/discussions).
+Или создайте [новую дискуссию](https://www.gitbook.com/book/cdrpro/coreldraw-book/discussions).
 
 Также можно [поддержать](https://money.yandex.ru/to/410013821917728) проект материально.
 
@@ -31,7 +31,7 @@ _**Лицензия:**
 CC-BY-NC-ND 4.0 International_
 
 _**Исходный код книги:**   
-[github.com/cdrpro-macros/book-coreldraw](https://github.com/cdrpro-macros/book-coreldraw)_
+[github.com/cdrpro-macros/book-coreldraw](https://github.com/cdrpro/book-coreldraw)_
 
 Последнюю версию книги можно найти по адресу: [cdrpro.ru/links](http://cdrpro.ru/links/)   
-[Читать онлайн](https://cdrpro-macros.gitbooks.io/coreldraw/content/).
+[Читать онлайн](https://cdrpro.gitbooks.io/coreldraw-book/content/).
